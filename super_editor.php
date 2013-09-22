@@ -4,6 +4,7 @@
 Plugin Name: Super Editor
 Description: Allows Editor role to update theme options
 Author: tom
+Version: 1.0
 */
 
 include_once 'super_editor.class.php';
